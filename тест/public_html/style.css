@@ -1,0 +1,35 @@
+ body {margin: 0px}
+header {height: 100px ;
+        width: 980px ;
+        background: lightgray ;
+        margin: 0 10px 10px 10px ;
+        text-align: center ;
+        padding: 30px 0 ;
+        border: 5px dotted blue}
+center{ height: 500px ;
+                    width: 980px ;
+                    background: white ;
+                    margin: 10px}
+footer{height: 150px;
+                   width: 970px  ;
+                   background: lightgray ;
+                   margin: 60px 10px ;
+                   text-align: center ;
+                   border: 5px dotted orange}
+page{display: block ;
+                  height: 50% ;
+                  width: 960px ;
+                  background: lightcyan ;
+                  text-align: center;
+                  padding: 10px ;
+                  border: 5px dashed red}
+news{display: block ;
+                 height: 50% ;
+                 width: 100% ;
+                 background: white}
+ div{height: 100% ;
+                width: 276.6px;
+                background: lightblue;
+                float:left ;
+                margin: 20px ;
+                border: 5px solid black}
